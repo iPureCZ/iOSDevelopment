@@ -10,3 +10,4 @@ Zdrojove kody pro serii tutorialu zverejnene v magazinu iPure.
 6)  [Prvni slozite programy a funkce](https://ipure.cz/archiv/navody/vyvoj-ios-aplikaci-6-prvni-slozite-programy-a-funkce/ "iPure")
 7)  [Funkce podrobne](https://ipure.cz/archiv/navody/vyvoj-pro-ios-7-funkce-podrobne/ "iPure")
 8)  [Uvod do struktur](https://ipure.cz/archiv/navody/vyvoj-pro-ios-8-uvod-do-struktur/ "iPure")
+9)  [Struktury a tridy](https://ipure.cz/archiv/navody/vyvoj-pro-ios-9-struktury-a-tridy/ "iPure")
